@@ -1,6 +1,5 @@
+# Install:
 
-git config --global user.name "Steven Koch"
-git config --glocal user.email "stvkoch@gmail.com"
 
-#set push current branch
-git config --global push.default current
+git clone https://github.com/stvkoch/powerZsh.git .powerZsh --recursive
+echo "source ~/.powerZsh/zshrc.sh" >> ~/.zshrc
