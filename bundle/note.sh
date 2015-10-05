@@ -28,7 +28,7 @@ note(){
   if [ $1 ]; then;
     CURRENT_DIR=$(pwd)
     cd $NOTES_BASE_DIR
-    vim $1.md
+    vim $1
     cd $CURRENT_DIR
   fi;
 }

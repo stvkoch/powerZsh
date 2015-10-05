@@ -1,5 +1,6 @@
 
-for file in ./bundle/*.sh; do
+
+for file in ~/.powerZsh/bundle/*.sh; do
     source "$file"
 done
 
