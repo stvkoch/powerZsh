@@ -5,7 +5,3 @@ for file in ~/.powerZsh/bundle/**/*.sh; do
 done
 
 
-#for file in ~/.powerZsh/bundle/*.sh; do
-#    source "$file"
-#done
-
