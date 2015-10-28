@@ -6,7 +6,7 @@ alias _='sudo'
 alias c='cd'
 alias ..='cd ..'
 alias ...='cd ../..'
-alias G='grep'
+alias G='grep --color -i'
 alias ll='ls -lsa'
 alias l='ls -ls'
 
